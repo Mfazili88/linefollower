@@ -12,4 +12,4 @@
 |     7    | Batterijen   | Lion 18650-2900mAh        |     nieuw    |  3,25            |   2   |     6,50    |
 |     8    |  Batterijhouder  |   2x en 1x      |     nieuw    |      1,09        |    2  |     2,18    |
 |      9   |  Schakelaar  |         |     nieuw    |    1,69          |  1    |     1,69    |
-|         |    |         |     nieuw    |              |      |      23,52   |
+|         |    |         |         |              |      |      23,52   |
